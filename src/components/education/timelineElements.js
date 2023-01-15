@@ -1,6 +1,15 @@
 let timelineElements = [
     {
         id: 1,
+        title: "Software Engineer Intern",
+        location: "Tensorchord (Startup)",
+        description:"",
+        buttonText: "Envd - MLOps",
+        date: "Dec 2022 - Mar 2023",
+        icon: "work",
+    },
+    {
+        id: 2,
         title: "Research Assistant",
         location: "Reliable and Secure System Laboratory",
         description:"",
@@ -9,7 +18,7 @@ let timelineElements = [
         icon: "work",
       },
     {
-        id: 2,
+        id: 3,
         title: "Purdue University",
         location: "Master Degree in Computer Information Technology",
         description:"",
@@ -18,7 +27,7 @@ let timelineElements = [
         icon: "school",
       },
     {
-        id: 3,
+        id: 4,
         title: "Research Assistant",
         location: "Network and Embedded System Laboratory",
         description:"",
@@ -27,7 +36,7 @@ let timelineElements = [
         icon: "work",
       },
     {
-      id: 4,
+      id: 5,
       title: "University of California, Los Angeles (UCLA)",
       location: "Master Degree in Computer Science",
       description:"",
@@ -37,7 +46,7 @@ let timelineElements = [
       
     },
     {
-      id: 5,
+      id: 6,
       title: "Shanghai Jiao Tong University",
       location: "Bachelor Degree in Computer Science",
       description:"",
